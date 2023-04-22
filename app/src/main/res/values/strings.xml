@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FirstAndroidApp</string>
-    <string name="generated_text">Number</string>
-    <string name="button">Start</string>
+    <string name="generated_text"> </string>
+    <string name="button">Generate Number</string>
 </resources>
